@@ -1,0 +1,28 @@
+{
+  "name": "nsngdaftools",
+  "version": "1.0.0",
+  "description": "Useful tools for NativeScript Angular development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioDaF/NsNgDaFTools.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "Angular",
+    "NodeJS"
+  ],
+  "author": "Dario Fagotto",
+  "license": "GPL-3.0",
+  "bin": {
+    "NgLocalCM": "NgLocalCM.js",
+    "NsNgModuleTemplate": "NsNgModuleTemplate.js"
+  },
+  "bugs": {
+    "url": "https://github.com/DarioDaF/NsNgDaFTools/issues"
+  },
+  "homepage": "https://github.com/DarioDaF/NsNgDaFTools#readme"
+}
