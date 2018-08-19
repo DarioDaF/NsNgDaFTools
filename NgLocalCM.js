@@ -1,3 +1,5 @@
+#! /usr/bin/env nodejs
+
 "use strict";
 
 /************************************/
@@ -129,7 +131,7 @@ if(require.main === module) {
   const appPath =
     process.argv.length >= 3 ?
     process.argv[2] :
-    path.join(__dirname, "app");
+    "./app";
 
   module.exports.updateDaFTsLocals(appPath);
 }

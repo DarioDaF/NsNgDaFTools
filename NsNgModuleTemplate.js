@@ -1,3 +1,5 @@
+#! /usr/bin/env nodejs
+
 "use strict";
 
 // Require CWD to be in the module folder
