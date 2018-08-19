@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/DarioDaF/NsNgDaFTools/issues"
   },
-  "homepage": "https://github.com/DarioDaF/NsNgDaFTools#readme"
+  "homepage": "https://github.com/DarioDaF/NsNgDaFTools#readme",
+  "dependencies": {
+    "glob": "^7.1.2"
+  }
 }
