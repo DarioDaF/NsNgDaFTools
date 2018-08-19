@@ -1,4 +1,5 @@
 Object.assign(module.exports,
   require("NgLocalCM"),
-  require("NsNgModuleTemplate")
+  require("NsNgModuleTemplate"),
+  require("NsNgComponentTemplate")
 );

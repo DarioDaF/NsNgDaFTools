@@ -1,6 +1,6 @@
 {
   "name": "nsngdaftools",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Useful tools for NativeScript Angular development",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
   "license": "GPL-3.0",
   "bin": {
     "NgLocalCM": "NgLocalCM.js",
-    "NsNgModuleTemplate": "NsNgModuleTemplate.js"
+    "NsNgModuleTemplate": "NsNgModuleTemplate.js",
+    "NsNgComponentTemplate": "NsNgComponentTemplate.js"
   },
   "bugs": {
     "url": "https://github.com/DarioDaF/NsNgDaFTools/issues"

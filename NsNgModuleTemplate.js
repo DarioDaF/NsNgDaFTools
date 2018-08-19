@@ -2,7 +2,7 @@
 
 "use strict";
 
-// Require CWD to be in the module folder
+// Require CWD to be in the app folder
 
 /*************************************************/
 /* DaF Local Module Template                     */
